@@ -8,25 +8,18 @@
 
 Python-first developer building automation, sharp interfaces, and compact systems with a heavier cyberpunk edge.
 
-![Python](https://img.shields.io/badge/Python-17191D?style=for-the-badge&logo=python&logoColor=9A101C&labelColor=050505)
-![Automation](https://img.shields.io/badge/Automation-17191D?style=for-the-badge&logo=apacheairflow&logoColor=9A101C&labelColor=050505)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-17191D?style=for-the-badge&logo=css3&logoColor=9A101C&labelColor=050505)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-17191D?style=for-the-badge&logo=python&logoColor=FF3558&labelColor=050505" alt="Python badge" />
+  <img src="./assets/sigil-crimson.svg" height="28" alt="Crimson sigil" />
+  <img src="https://img.shields.io/badge/Automation-17191D?style=for-the-badge&logo=apacheairflow&logoColor=FF3558&labelColor=050505" alt="Automation badge" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-17191D?style=for-the-badge&logo=css3&logoColor=FF3558&labelColor=050505" alt="HTML/CSS badge" />
+</p>
 
 ## Signal
 
-```yaml
-alias: AgaresSU
-stack:
-  - Python
-  - automation
-  - interfaces
-  - HTML/CSS
-palette:
-  - black
-  - graphite
-  - dark_crimson
-mission: build tools with presence
-```
+<p align="center">
+  <img src="./assets/signal-card-crimson.svg" alt="Crimson profile signal card" />
+</p>
 
 ## What I Build
 
