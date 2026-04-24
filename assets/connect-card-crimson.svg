@@ -1,26 +1,18 @@
 <svg width="920" height="120" viewBox="0 0 920 120" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="920" y2="120" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0A0A0D"/>
-      <stop offset="1" stop-color="#101116"/>
-    </linearGradient>
-    <linearGradient id="bar" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#19090E"/>
-      <stop offset="1" stop-color="#12080C"/>
-    </linearGradient>
     <style>
       .mono { font-family: "JetBrains Mono", "Consolas", monospace; }
-      .small { fill: #F198A6; font-size: 18px; font-weight: 600; letter-spacing: 0.08em; }
-      .main { fill: #FF5A74; font-size: 28px; font-weight: 700; }
-      .sub { fill: #F6C2CA; font-size: 22px; font-weight: 500; }
+      .display { font-family: "Segoe UI", "Arial Narrow", "Trebuchet MS", sans-serif; }
+      .small { fill: #A04048; font-size: 18px; font-weight: 700; letter-spacing: 0.08em; }
+      .main { fill: #A04048; font-size: 28px; font-weight: 600; }
+      .sub { fill: #D9D9DD; font-size: 20px; font-weight: 500; }
     </style>
   </defs>
 
-  <rect x="1" y="1" width="918" height="118" rx="18" fill="url(#bg)" stroke="#311219" stroke-width="2"/>
-  <rect x="1" y="1" width="918" height="40" rx="18" fill="url(#bar)"/>
-  <rect x="1" y="22" width="918" height="18" fill="url(#bar)"/>
+  <rect x="1" y="1" width="918" height="118" fill="#0B0B0E" stroke="#A04048" stroke-opacity="0.5" stroke-width="2"/>
+  <rect x="1" y="1" width="918" height="34" fill="#2A0F14"/>
 
   <text x="28" y="27" class="mono small">connect://open</text>
-  <text x="34" y="75" class="mono main">Пока лучшая точка входа — мой GitHub.</text>
-  <text x="34" y="102" class="mono sub">Там будут появляться оформленные проекты, обновления и pinned-репозитории.</text>
+  <text x="34" y="74" class="display main">Сейчас удобнее всего следить за мной здесь, на GitHub.</text>
+  <text x="34" y="101" class="mono sub">Здесь будут появляться оформленные проекты, обновления и pinned-репозитории.</text>
 </svg>

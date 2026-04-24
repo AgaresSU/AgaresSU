@@ -6,13 +6,10 @@
 
 Привет. Я пишу в основном на Python и люблю делать вещи, которые реально упрощают работу: автоматизацию, небольшие инструменты и аккуратные интерфейсы на HTML/CSS.
 
-Сейчас постепенно собираю свой GitHub в цельный профиль: привожу проекты в порядок, переписываю описания и превращаю черновики в портфолио, которое не стыдно показать.
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-17191D?style=for-the-badge&logo=python&logoColor=FF3558&labelColor=050505" alt="Python badge" />
-  <img src="./assets/sigil-crimson.svg" height="28" alt="Crimson sigil" />
-  <img src="https://img.shields.io/badge/Automation-17191D?style=for-the-badge&logo=apacheairflow&logoColor=FF3558&labelColor=050505" alt="Automation badge" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-17191D?style=for-the-badge&logo=css3&logoColor=FF3558&labelColor=050505" alt="HTML/CSS badge" />
+  <img src="https://img.shields.io/badge/PYTHON-17191D?style=for-the-badge&logo=python&logoColor=A04048&labelColor=050505" alt="Python" />
+  <img src="https://img.shields.io/badge/AUTOMATION-17191D?style=for-the-badge&logo=apacheairflow&logoColor=A04048&labelColor=050505" alt="Automation" />
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-17191D?style=for-the-badge&logo=html5&logoColor=A04048&labelColor=050505" alt="HTML and CSS" />
 </p>
 
 ## Обо мне
@@ -23,7 +20,7 @@
 
 ## Сейчас в работе
 
-- оформляю профиль и привожу репозитории к одному стилю
+- работаю над личным защищённым внешним менеджером паролей
 - довожу старые проекты до состояния, когда ими приятно пользоваться
 - ищу баланс между кодом, визуалом и общей атмосферой проекта
 
@@ -41,6 +38,6 @@
 
 <p align="center">
   <a href="https://github.com/AgaresSU">
-    <img src="https://img.shields.io/badge/GitHub-AgaresSU-17191D?style=for-the-badge&logo=github&logoColor=FF5A74&labelColor=050505" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/GITHUB-AgaresSU-17191D?style=for-the-badge&logo=github&logoColor=A04048&labelColor=050505" alt="GitHub badge" />
   </a>
 </p>
