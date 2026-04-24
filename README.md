@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner-crimson-archive.png" alt="AgaresSU crimson archive banner" />
+</p>
+
 # AgaresSU
 
 > Black. Graphite. Dark crimson. Precision over comfort.
