@@ -4,9 +4,9 @@
 
 # AgaresSU
 
-> Black. Graphite. Dark crimson. Precision over comfort.
+Привет. Я пишу в основном на Python и люблю делать вещи, которые реально упрощают работу: автоматизацию, небольшие инструменты и аккуратные интерфейсы на HTML/CSS.
 
-Python-first developer building automation, sharp interfaces, and compact systems with a heavier cyberpunk edge.
+Сейчас постепенно собираю свой GitHub в цельный профиль: привожу проекты в порядок, переписываю описания и превращаю черновики в портфолио, которое не стыдно показать.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-17191D?style=for-the-badge&logo=python&logoColor=FF3558&labelColor=050505" alt="Python badge" />
@@ -15,30 +15,32 @@ Python-first developer building automation, sharp interfaces, and compact system
   <img src="https://img.shields.io/badge/HTML%2FCSS-17191D?style=for-the-badge&logo=css3&logoColor=FF3558&labelColor=050505" alt="HTML/CSS badge" />
 </p>
 
-## Signal
+## Обо мне
+
+- основной язык для меня — `Python`
+- люблю автоматизацию и небольшие инструменты с понятной пользой
+- если проекту нужен интерфейс, мне важно, чтобы он был не только рабочим, но и аккуратным
+
+## Сейчас в работе
+
+- оформляю профиль и привожу репозитории к одному стилю
+- довожу старые проекты до состояния, когда ими приятно пользоваться
+- ищу баланс между кодом, визуалом и общей атмосферой проекта
+
+## Девиз
 
 <p align="center">
-  <img src="./assets/signal-card-crimson.svg" alt="Crimson profile signal card" />
+  <img src="./assets/motto-card-crimson.svg" alt="Non progredi est regredi" />
 </p>
 
-## What I Build
+## Связь
 
-- Python tooling and automation that cut straight to the problem.
-- Interfaces with HTML/CSS that feel sharp, controlled, and intentional.
-- Small systems with a strong visual identity and zero generic-template energy.
+<p align="center">
+  <img src="./assets/connect-card-crimson.svg" alt="Crimson connect card" />
+</p>
 
-## Active Zone
-
-- turning rough experiments into portfolio pieces with actual weight
-- sharpening repo structure, naming, and public presentation
-- merging code and atmosphere into one recognizable style
-
-## Ruleset
-
-> If it ships, it should have presence.  
-> If it solves a problem, it should do it fast.  
-> If it looks generic, it gets rebuilt.
-
-## Connect
-
-- GitHub: [@AgaresSU](https://github.com/AgaresSU)
+<p align="center">
+  <a href="https://github.com/AgaresSU">
+    <img src="https://img.shields.io/badge/GitHub-AgaresSU-17191D?style=for-the-badge&logo=github&logoColor=FF5A74&labelColor=050505" alt="GitHub badge" />
+  </a>
+</p>

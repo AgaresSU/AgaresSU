@@ -1,0 +1,42 @@
+<svg width="920" height="152" viewBox="0 0 920 152" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="920" y2="152" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0A0D"/>
+      <stop offset="1" stop-color="#101116"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#19090E"/>
+      <stop offset="1" stop-color="#12080C"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .mono { font-family: "JetBrains Mono", "Consolas", monospace; }
+      .serif { font-family: "Georgia", "Times New Roman", serif; }
+      .small { fill: #F198A6; font-size: 18px; font-weight: 600; letter-spacing: 0.08em; }
+      .main { fill: #FF5A74; font-size: 36px; font-weight: 700; }
+      .sub { fill: #F6C2CA; font-size: 24px; font-weight: 500; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="918" height="150" rx="18" fill="url(#bg)" stroke="#311219" stroke-width="2"/>
+  <rect x="1" y="1" width="918" height="40" rx="18" fill="url(#bar)"/>
+  <rect x="1" y="22" width="918" height="18" fill="url(#bar)"/>
+
+  <text x="28" y="27" class="mono small">motto://steady-forward</text>
+
+  <g filter="url(#glow)" stroke="#FF5A74" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M850 46L864 67L887 71L871 87L875 111L850 100L825 111L829 87L813 71L836 67L850 46Z"/>
+    <path d="M850 58V98"/>
+    <path d="M830 68L870 87"/>
+    <path d="M870 68L830 87"/>
+  </g>
+
+  <text x="34" y="82" class="serif main">Non progredi est regredi.</text>
+  <text x="34" y="119" class="serif sub">Не идти вперёд — значит идти назад.</text>
+</svg>
